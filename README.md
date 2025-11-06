@@ -33,4 +33,8 @@ Given `1` labeled as "going up" and `0` is otherwises, we can see from the resul
 # Improvement
 - Try intra-day data points might capture some small movements if I were to adopt the model for day trading
 - Use different ML models to find better movement prediction.
-- Apply `backtesting` with the adopt strategy to test and evalute the strategy 
+- Apply `backtesting` with the adopt strategy to test and evalute the strategy
+
+# Reference
+- [cwayQuantDIY](https://www.facebook.com/reel/1119424909805413)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
